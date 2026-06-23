@@ -1,6 +1,5 @@
-## Hi there 👋
 
-# Hey there 👋, I'm Kavya
+# Hey there 👋, I'm Kavya Patel
 
 ### 🚀 AI Tech Enthusiast • Website Builder with AI • Future Innovator
 

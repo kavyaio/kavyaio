@@ -1,102 +1,41 @@
 
 # Hey there 👋, I'm Kavya Patel
 
-### 🚀 AI Tech Enthusiast • Website Builder with AI • Future Innovator
+### 🚀 AI Tech Enthusiast | 🌐 Website Builder with AI | 💡 Future Innovator
 
-I'm a B.Tech IT student passionate about building real-world products, exploring emerging technologies, and learning through hands-on experience.
+I'm a B.Tech IT student passionate about building real-world products, exploring AI, and learning through hands-on projects.
 
-Instead of only studying technology, I enjoy shipping projects, working with clients, experimenting with AI-powered development workflows, and continuously improving my skills by building things that people can actually use.
+🎯 Currently part of **Lakshya 2047**, where I'm exploring future technologies, innovation, and product development.
 
----
-
-## 🧠 Currently Exploring
+## 🧠 Interests
 
 🤖 Artificial Intelligence & AI Models
-
-🌐 Modern Web Development
-
+🌐 Web Development
 👁️ Computer Vision
-
-🏆 Hackathons & Innovation Challenges
-
-🚁 Robotics, Drones & Future Technologies
-
-💡 Product Building & Startups
-
----
+🏆 Hackathons
+🚁 Robotics & Emerging Technologies
+💼 Startups & Product Building
 
 ## 🛠️ Tech Stack
 
-### Frontend
+💻 HTML • CSS • JavaScript • Next.js
+🐍 Python • ☕ Java • ⚙️ C++
+🗄️ SQL • 🌱 Git & GitHub
 
-💻 HTML
-🎨 CSS
-⚡ JavaScript
-▲ Next.js
+## 🚀 What I'm Doing
 
-### Programming Languages
+✅ Building websites and web applications
 
-🐍 Python
-☕ Java
-⚙️ C++
+✅ Using AI-powered development workflows
 
-### Database & Tools
+✅ Learning by building real projects
 
-🗄️ SQL
-🌱 Git & GitHub
-🤖 AI Development Tools
+✅ Exploring AI, Computer Vision & Future Tech
 
----
+✅ Working towards impactful products, not just academic projects
 
-## 🚀 What I've Been Doing
+## 💭 Philosophy
 
-✅ Built and delivered websites for real clients
+> Build. Learn. Improve. Repeat. 🔥
 
-✅ Using AI-assisted workflows to develop products faster
-
-✅ Exploring practical applications of AI and emerging technologies
-
-✅ Participating in innovation-focused learning through Lakshya 2047
-
-✅ Learning software engineering through real projects instead of only coursework
-
----
-
-## 🎯 Current Mission
-
-Building a strong foundation in software engineering while exploring:
-
-* AI-powered products
-* Computer Vision
-* Robotics & Automation
-* Future Technologies
-* Startup & Product Development
-
-My goal is to become a builder who can transform ideas into impactful products through technology and innovation.
-
----
-
-## 📈 2026 Focus
-
-🔥 Build more real-world products
-
-🔥 Participate in hackathons
-
-🔥 Learn AI beyond basic integrations
-
-🔥 Explore Computer Vision & Robotics
-
-🔥 Collaborate with ambitious builders
-
----
-
-## 💭 My Philosophy
-
-> Learn Deeply.
-> Build Consistently.
-> Ship Real Products.
-> Create Technology That Matters.
-
----
-
-### ⭐ Always Curious • Always Learning • Always Building
+⭐ Always Curious • Always Learning • Always Building

@@ -1,4 +1,6 @@
 
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/57c08ec5-bf25-4872-95e8-b0ce5af9c37a" />
+
 # Hey there 👋, I'm Kavya Patel
 
 ### 🚀 AI Tech Enthusiast | 🌐 Website Builder with AI | 💡 Future Innovator

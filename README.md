@@ -1,43 +1,132 @@
+<div align="center">
 
-<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/57c08ec5-bf25-4872-95e8-b0ce5af9c37a" />
+<img src="GithubBanner.png" width="100%" />
 
-# Hey there 👋, I'm Kavya Patel
+# Hi 👋 I'm Kavya Patel
 
-### 🚀 AI Tech Enthusiast | 🌐 Website Builder with AI | 💡 Future Innovator
+### 🚀 AI Enthusiast • Full Stack Learner • Future Software Engineer
 
-I'm a B.Tech IT student passionate about building real-world products, exploring AI, and learning through hands-on projects.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Building+Real+World+Projects;Learning+AI+%26+Full+Stack+Development;Always+Curious+Always+Building" />
 
-🎯 Currently part of **Lakshya 2047**, where I'm exploring future technologies, innovation, and product development.
+</div>
 
-## 🧠 Interests
+---
 
-🤖 Artificial Intelligence & AI Models
-🌐 Web Development
-👁️ Computer Vision
-🏆 Hackathons
-🚁 Robotics & Emerging Technologies
-💼 Startups & Product Building
+## 💫 About Me
 
-## 🛠️ Tech Stack
+🎓 First Year B.Tech Information Technology Student
 
-💻 HTML • CSS • JavaScript • Next.js
-🐍 Python • ☕ Java • ⚙️ C++
-🗄️ SQL • 🌱 Git & GitHub
+🌍 Building practical projects instead of just completing assignments.
 
-## 🚀 What I'm Doing
+🤖 Passionate about Artificial Intelligence, Web Development and Product Building.
 
-✅ Building websites and web applications
+🚀 Currently participating in **Lakshya 2047**, exploring future technologies and innovation.
 
-✅ Using AI-powered development workflows
+💡 I enjoy transforming ideas into real applications while continuously improving my problem-solving skills.
 
-✅ Learning by building real projects
+---
 
-✅ Exploring AI, Computer Vision & Future Tech
+## 🚀 Currently Learning
 
-✅ Working towards impactful products, not just academic projects
+- 🌐 Full Stack Development
+- 🤖 Artificial Intelligence
+- 📱 Next.js
+- ☁️ Git & GitHub
+- 🧩 Data Structures & Algorithms
 
-## 💭 Philosophy
+---
 
-> Build. Learn. Improve. Repeat. 🔥
+# 💻 Tech Stack
 
-⭐ Always Curious • Always Learning • Always Building
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nextjs,python,java,cpp,mysql,git,github&theme=dark" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🌍 Traveloop
+AI-powered travel planning platform.
+
+### 🏥 Hospital Management System
+Python + Pandas based management software.
+
+### 🛒 Shri Siddhi Vinayak Trading Website
+Modern product catalogue website built using Next.js.
+
+### 🎬 Netflix Clone
+Responsive Netflix landing page using HTML & CSS.
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/kavya-patel-569296376">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:kp565799@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kavya.ioE">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="[https://instagram.com/](https://www.instagram.com/kavy_p321/)">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="[https://leetcode.com/YOUR_USERNAM](https://leetcode.com/u/3zsJYc47G4/)E">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+
+</p>
+
+---
+
+<div align="center">
+
+### 💭 Quote
+
+*"Build. Learn. Improve. Repeat."* 🔥
+
+</div>
